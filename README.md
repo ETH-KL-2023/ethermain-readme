@@ -22,5 +22,6 @@ Web domains can be wrapped as NFTs, making whoever owns the NFT the rightful own
 
 Ethermain is inherently a public good: we disintermediate the role of registries and registrars within the traditional DNS system in one fell swoop. Users interact with our contracts to register, buy, sell, and manage DNS of ".emn" domains. Front-ends hosted under a domain with Ethermain TLD (".emn") are way more secure than if their domains are managed by centralized registrars, which present a single point-of-failure. For web3 applications to truly be secure (and achieve mass adoption), besides securing its underlying smart contracts, it is of utmost importance for them to be hosted under an equally secure front-end under a web3 native web domain.  This is what Ethermain will bring to Taiko: a public good that is useful for everyone in web3.
 
-### Deck
-https://drive.google.com/file/d/1KTbqMoGHmOaZxOXZOUv-Yvv8nRZf84vX/view?usp=sharing
+### Resources
+Deck: https://drive.google.com/file/d/1KTbqMoGHmOaZxOXZOUv-Yvv8nRZf84vX/view?usp=sharing
+Video Demo: https://www.youtube.com/watch?v=3ey5Bz7t7VU
