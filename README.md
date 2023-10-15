@@ -24,4 +24,5 @@ Ethermain is inherently a public good: we disintermediate the role of registries
 
 ### Resources
 Deck: https://drive.google.com/file/d/1KTbqMoGHmOaZxOXZOUv-Yvv8nRZf84vX/view?usp=sharing
+
 Video Demo: https://www.youtube.com/watch?v=3ey5Bz7t7VU
