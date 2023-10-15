@@ -1,6 +1,5 @@
 # Ethermain
 **The onchain TLD registry and web domain registrar, that web3 deserves.**
-Deck: https://drive.google.com/file/d/1KTbqMoGHmOaZxOXZOUv-Yvv8nRZf84vX/view?usp=sharing
 
 ## Problem
 Our existing DNS is conceived during a time where crypto has not been invented. As such, it has not been designed to handle websites with billions of dollars at stake.
@@ -22,3 +21,6 @@ We allow end users the novel option of purchasing / trading / managing web domai
 Web domains can be wrapped as NFTs, making whoever owns the NFT the rightful owner of the web domain in our onchain registry contract. Only those holding this NFT can edit / modify records. Also, NFTs can be used to participate in DeFi: collateralization, derivatives, you name it!
 
 Ethermain is inherently a public good: we disintermediate the role of registries and registrars within the traditional DNS system in one fell swoop. Users interact with our contracts to register, buy, sell, and manage DNS of ".emn" domains. Front-ends hosted under a domain with Ethermain TLD (".emn") are way more secure than if their domains are managed by centralized registrars, which present a single point-of-failure. For web3 applications to truly be secure (and achieve mass adoption), besides securing its underlying smart contracts, it is of utmost importance for them to be hosted under an equally secure front-end under a web3 native web domain.  This is what Ethermain will bring to Taiko: a public good that is useful for everyone in web3.
+
+### Deck
+https://drive.google.com/file/d/1KTbqMoGHmOaZxOXZOUv-Yvv8nRZf84vX/view?usp=sharing
